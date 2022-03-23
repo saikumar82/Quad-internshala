@@ -1,2 +1,1 @@
 # Quad-internshala
-Demo Solution
